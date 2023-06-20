@@ -55,8 +55,5 @@ python parsing_bot.py
 
 Если возникнут ошибки или проблемы, убедитесь, что вы указали правильные API-данные и настроили файл config.ini соответствующим образом.
 
-## Вклад
-Вклад приветствуется! Если у вас есть предложения, сообщения об ошибках или вы хотите внести новые функции или улучшения, пожалуйста, не стесняйтесь создавать issue или отправлять pull request.
-
 ## Лицензия
 This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license. See the [LICENSE](LICENSE) file for more details.
